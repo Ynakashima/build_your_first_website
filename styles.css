@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  size: 24pt;
+  font-weight: bolder;
+}
+h3 {
+  color: white;
+  size: 20pt;
+  font-weight: bolder;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16pt;
+}
+a:hover {
+  color: gray;
+}
+ul {
+   list-style-type: none;
+}
+p {
+  color: white;
+}
+.one {
+  display: inline-block;
+  
+}
