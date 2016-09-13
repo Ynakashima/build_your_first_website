@@ -6,6 +6,11 @@ h1 {
   size: 24pt;
   font-weight: bolder;
 }
+h2 {
+  color: white;
+  size: 22pt;
+  font-weight: bolder;
+}
 h3 {
   color: white;
   size: 20pt;
@@ -26,7 +31,13 @@ ul {
 p {
   color: white;
 }
-.one {
-  display: inline-block;
-  
+
+div {
+    float: left;
+    width: 120px;
+    margin: 0 0 15px 20px;
+    padding-right: 200px;
+}
+.media  {
+  background-color: white;
 }
